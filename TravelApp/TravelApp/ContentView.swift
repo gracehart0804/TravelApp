@@ -390,7 +390,6 @@ struct PostcardDetailView: View {
     }
 }
 
-
 // MAP View
 struct MapScreen: View {
 
